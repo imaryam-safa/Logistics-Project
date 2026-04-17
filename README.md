@@ -1,5 +1,5 @@
 # Logistics-Project
-A publically available logistics report is used to create an end-to-end project using SQL, machine learning in python, and finally a Power BI dashboard is created. 
+A publically available logistics report is used to create an end-to-end project using MS SQL Server and then visualized in Power BI. Additionally, a regression model is used to identify driver churn. 
 
 SQL SERVER: 
 1. The database files are loaded into the MS SQL Server and the database diagram created. 
